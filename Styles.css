@@ -1,0 +1,51 @@
+.blue
+{
+    color: blue;
+}
+.palev
+{
+    color: palevioletred;
+}
+.red
+{
+    color: red;
+}
+.title
+{
+    color: blue;
+    display: table;
+        width: 25%;
+        text-align: center;
+}
+.green
+{
+    color: green;
+}
+.ReD{
+
+    color: red;
+    display: table;
+    width: 110%;
+
+}
+.blueish
+{
+    color: blue;
+    display: table;
+        width: 100%;
+        text-align: center;
+}
+.nocolor
+{
+    display: table;
+        width: 100%;
+        text-align: center;
+
+}
+.five
+{
+    display: table;
+    width: 100%;
+    text-align: center;
+    font-weight: normal;
+}
