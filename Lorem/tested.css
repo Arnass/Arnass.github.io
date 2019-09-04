@@ -1,0 +1,21 @@
+.nocolor
+{
+    display: table;
+        width: 100%;
+        text-align: center;
+
+}
+.blueish
+{
+    color: blue;
+    display: table;
+        width: 100%;
+        text-align: center;
+}
+.five
+{
+    display: table;
+    width: 100%;
+    text-align: center;
+    font-weight: normal;
+}
