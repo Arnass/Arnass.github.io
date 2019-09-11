@@ -1,0 +1,44 @@
+.block
+{
+    
+    border-style:solid;
+    border-color:green;
+    margin:35px;
+}
+.block2
+{
+    display: block;
+    border-style: solid;
+    margin: 110px;
+    border-color: green;
+    color: red;
+    outline: 8px solid red;
+    outline-offset: 70px;
+}
+.box
+{
+    float: left;
+    width: 40%;
+    box-sizing: border-box;
+    border: 1px dotted red;
+}
+.title
+{
+    color: crimson;
+    text-align: center;
+    border-bottom: 6px solid chocolate;
+    background-color: white; 
+}
+.block3
+{
+    display: block;
+    border-style: dashed;
+    border-width: 4px;
+    margin: 110px;
+    padding: 25px;
+    border-color: blue;
+    color: red;
+    outline: 8px solid red;
+    outline-offset: 70px;
+    outline
+}
