@@ -42,3 +42,113 @@
     outline-offset: 70px;
     outline
 }
+.green
+{
+    display: block;
+    border: 3px dashed green;
+    margin: 1em;
+    padding: 1em;
+    border-color: green;
+}
+code
+{
+
+    background: #eaeaed;
+    color: #666;
+    font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+    display: inline-block;
+    height: 70px;
+    margin: 0 14px;
+    padding-top: 20px;
+    text-align: center;
+    width: 90px;
+}
+.box 
+{
+    font-size: 1.2em;
+    height: 5em;
+}
+.row
+{
+    display: flex
+    flex-flow: row-reverse;
+}
+.col
+{
+    display: flex
+    flex-flow: column-reverse;
+
+}
+.raudur
+{
+    background: red;
+}
+.gulur
+{
+    background: yellow;
+}
+.graenn
+{
+    background: green;
+}
+.bla
+{
+    background: blue;
+}
+.row2
+{
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.r
+{
+    display: inline-block;
+    font-size: 20px;
+    padding: 30px;
+    border: 3px dashed red; 
+}
+.r
+{
+    display: inline-block;
+    font-size: 20px;
+    padding: 30px;
+    border: 3px dashed red; 
+}
+.inlineblock
+{
+    display:block;
+}
+.blue1
+{
+    border: 2px dotted blue;
+}
+.blue2
+{
+    border: 2px dotted blue;
+}
+.blue3
+{
+    border: 2px dotted blue;
+}
+.blue4
+{
+    border: 2px dotted blue;
+}
+.red1
+{
+    border: 2px dotted red;
+}
+.red2
+{
+    border: 2px dotted red;
+}
+.red3
+{
+    border: 2px dotted red;
+}
+.red4
+{
+    border: 2px dotted red;
+}
